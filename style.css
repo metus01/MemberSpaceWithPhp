@@ -1,0 +1,33 @@
+*{
+  box-sizing: border-box;
+}
+body
+ {
+  background:linear-gradient(90deg,#ce93d8,#f06292)
+ }
+ h2
+ {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+  ;
+  width: 1.3rem;
+ }
+ div
+ {
+  background: rgba(250 , 250 , 250 , 0.6);
+  width: 70vh;
+   margin:auto;
+  border-radius: 3px;
+ }
+ label
+ {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+  ;
+  font-size: 1.1rem;
+ }
+ input
+ {
+  width: 80%;
+  border-radius: 4px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ }
+
